@@ -1,0 +1,71 @@
+.button-position
+{
+	margin-top: 15px;
+	margin-left: 20px;
+}
+
+.borde-contenedor
+{
+	border: 2px solid #33cccc;
+}
+
+.borde-contenedor h2
+{
+	color: #248f8f;
+	font-family: verdana;
+}
+
+.borde-contenedor p
+{
+	margin-left: 15px;
+	font-size: 20px;
+	font-family: courier;
+	margin-top: 30px;
+}
+
+.borde-contenedor img
+{
+	margin-left: 150px;
+}
+
+.design-button
+{
+	background-color: #33cccc;
+	color: white;
+	border: 2px solid #00ffff;
+	border-radius: 5px;
+	font-family: courier;
+	font-size: 20px;
+	padding: 8px;
+}
+
+.design-button:hover
+{
+	background-color: white;
+	color: black;
+}
+
+.design-button:active
+{
+	background-color: #33cccc;
+	color: white;
+}
+
+.poistion-button-one
+{
+	margin-top: 15px;
+	margin-left: 59px;
+	margin-right: 8px;
+}
+
+.container div.table-responsive table.table tbody tr.cambio-fondo-cursor:hover
+{
+	background-color: #adebeb;
+	cursor: pointer;
+}
+
+.container div.table-responsive table.table tbody tr.cambio-fondo-cursor:active
+{
+	background-color: #d6f5f5;
+	cursor: pointer;
+}
